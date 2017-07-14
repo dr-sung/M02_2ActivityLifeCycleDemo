@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">M02_2ActivityLifeCycleDemo</string>
+    <string name="greeting">Activity Life Cycle Demo</string>
+</resources>
